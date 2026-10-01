@@ -1,0 +1,6 @@
+{
+  "name": "Faraja Restaurant",
+  "description": "Faraja Restaurant - Authentic African cuisine, flame-grilled nyama choma, comfort dishes, and refreshments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
